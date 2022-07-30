@@ -176,6 +176,16 @@ img {
     text-align: center;
 }
 
+.table {
+    width: 100%;
+    margin: 2rem;
+}
+
+.table head th {
+    text-transform: uppercase;
+    padding: 0.8rem;
+}
+
 /* Container */
 .container {
     max-width: 70%;
